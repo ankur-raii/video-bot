@@ -166,7 +166,7 @@ async def process_video(post: dict) -> None:
 
             # Create post
             video_title = caption
-            category_id = 25  # Replace with your category ID
+            category_id = 25  
             print(f"Creating post for: {video_title}")
             await create_post(session, video_title, video_hash, category_id, new_caption)
 
