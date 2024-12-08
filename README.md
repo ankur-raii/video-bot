@@ -61,7 +61,6 @@ Finally, run the script in file directory:
 video-bot>python main.py
 ```
 
-
 ## How It Works:
 
 ### Step-by-Step Process
